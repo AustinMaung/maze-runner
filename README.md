@@ -31,7 +31,7 @@ Maze Runner is a website showcasing maze generating algorithms implemented using
 
 ## Demo
 
-[Link to live demo](#) *(Update with actual link)*
+[Link to live demo](https://multiplayer-maze-runner.onrender.com)
 
 ## Screenshots
 
